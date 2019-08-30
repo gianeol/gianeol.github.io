@@ -12,6 +12,9 @@ I'm currently working for a client that asked me to customize a pre-built theme,
 
 **2018 (1st semester)** - Template customization for an online pharmacy. The client didn't have a website for his online pharmacy, I was responsible to pick up a suitable template and customize it accordingly to the needs of the client. The code to make the online store to work was built by another developer in php.
 
+### Education:
+
+I currently hold a BS degree in Business Administration and after working in this industry for several years I discovered my passion for all things related to design. It's been 5 years since I left the business industry and switched to UI/UX field where I like to spend my time acting as a freelancer.
 
 You can use the [editor on GitHub](https://github.com/gianeol/gianeol.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
