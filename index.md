@@ -1,5 +1,4 @@
-## Hi! I'm Giane de Oliveira Lopes,
-## a Freelance Webdesigner
+## Hi! I'm Giane, a Freelance Webdesigner
 
 ### What I'm currently doing:
 
