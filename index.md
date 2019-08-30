@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi! I'm Giane de Oliveira Lopes, a freelance Webdesigner
 
 You can use the [editor on GitHub](https://github.com/gianeol/gianeol.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
