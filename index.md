@@ -18,4 +18,4 @@ I currently hold a BS degree in Business Administration and after working in thi
 
 ### Screenshots:
  
-![screenshot1](metro1.png)
+![screenshot1](metro.png)
