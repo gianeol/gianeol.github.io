@@ -16,6 +16,10 @@ I'm currently working for a client that asked me to customize a pre-built theme,
 
 I currently hold a BS degree in Business Administration and after working in this industry for several years I discovered my passion for all things related to design. It's been 5 years since I left the business industry and switched to UI/UX field where I like to spend my time acting as a freelancer webdesigner.
 
+### Contact:
+ You can reach me by email at giane_ol@hotmail.com
+
+
 ### Screenshots:
 
 Here are some screenshots of a recent job. I customized the portal to provide a consistent view. The site is based on html 5 and php and has several enterprise features like security based on roles and groups, horizontal scalability and caching.
