@@ -17,7 +17,7 @@ I'm currently working for a client that asked me to customize a pre-built theme,
 I currently hold a BS degree in Business Administration and after working in this industry for several years I discovered my passion for all things related to design. It's been 5 years since I left the business industry and switched to UI/UX field where I like to spend my time acting as a freelancer webdesigner.
 
 ### Contact:
-The best way to reach me is through email [mailto](mailto:giane_ol@hotmail.com)
+The best way to reach me is through email [giane_ol@hotmail.com](mailto:giane_ol@hotmail.com)
 
 
 ### Screenshots:
