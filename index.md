@@ -18,8 +18,8 @@ I currently hold a BS degree in Business Administration and after working in thi
 
 ### Screenshots:
 
-These are some screenshots of a recent job. I customized the portal to provide a consistent view. The site is based on html 5 and php and has several enterprise features like security based on roles and groups, horizontal scalability and caching.
+Here are some screenshots of a recent job. I customized the portal to provide a consistent view. The site is based on html 5 and php and has several enterprise features like security based on roles and groups, horizontal scalability and caching.
 
 ![login](login.png) 
 ![screenshot1](metro.png)
-![screenshot2](metro_1.png)
+
